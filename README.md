@@ -8,17 +8,18 @@ This repository contains implementation details, evaluation artifacts, and bench
 
 ## 📊 DeepResearch Bench Evaluation Results
 
-We evaluated **Bodhi-DeepResearch** on the DeepResearch Bench to assess performance across multiple qualitative dimensions of research capability.
+We evaluated **Bodhi-DeepResearch** on the DeepResearch Bench to assess performance across multiple qualitative dimensions of research capability. We used Eval Judge: GPT-5.5 (race) + GPT-5.4-mini (fact-check) for the latest benchmark results.
 
 ### Results Summary
 
 | Dimension               | Score  |
 |-------------------------|--------|
-| Comprehensiveness       | 54.41  |
-| Insight                 | 56.36  |
-| Instruction Following   | 53.11  |
-| Readability             | 52.10  |
-| **Overall Score**       | **54.45** |
+| Comprehensiveness       | 54.35  |
+| Insight                 | 54.75  |
+| Instruction Following   | 54.41  |
+| Readability             | 51.94  |
+| **Overall Score**       | **54.20** |
+
 
 ### Evaluation Dimensions Explained
 
